@@ -34,3 +34,69 @@ I’m an automation engineer fueled by curiosity and a passion for innovation. A
 <a href="http://www.github.com/SyafiqZafri"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SyafiqZafri&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/SyafiqZafri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyafiqZafri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+Muhammad Syafiq Bin Mohd Zafri
+Automation Engineer | Software Engineering Student | PLC & SCADA Specialist
+
+
+<sup>Banner can be replaced with a custom design showcasing your expertise in automation and software engineering.</sup>
+
+About Me
+Hi! I’m Muhammad Syafiq, a highly motivated Automation Engineer and Software Engineering student with over 4 years of hands-on experience in PLC programming, SCADA development, and automation systems integration. I thrive on innovation, solving complex challenges, and delivering efficient solutions.
+
+I’m currently pursuing my Bachelor's in Computer Science (Software Engineering) at UTM, where I blend operational technology expertise with software engineering skills to bridge the gap between IT and OT.
+
+Technical Expertise
+Automation Technology
+PLC Programming: Siemens (TIA Portal, SIMATIC Manager), Schneider (Control Expert), Omron (CX-Programmer), Panasonic (FPWIN GR)
+SCADA Systems: AVEVA Wonderware (System Platform, InTouch)
+Software Development
+Languages: HTML, JavaScript, PHP, C++, Java
+Tools: Visual Studio, Microsoft SQL Server, Wireshark, Packet Tracer
+Professional Experience
+Automation Engineer
+Macro-Integration Sdn Bhd | Pulau Pinang (Nov 2020 – Present)
+
+Designed and deployed PLC and SCADA systems for clients like Micron Memory and Western Digital.
+Conducted hardware testing, system integration, and field acceptance tests (FAT & SAT).
+Spearheaded the implementation of SMS notification systems for SCADA applications.
+PLC Programmer
+Easy Pack Technology Sdn Bhd | Pulau Pinang (Apr 2019 – Nov 2020)
+
+Created custom PLC programs and HMI for industrial automation solutions.
+Enhanced legacy systems with optimized programming for efficiency and reliability.
+CNC Machinist Intern
+TOWA-M Sdn Bhd | Pulau Pinang (Jul 2018 – Dec 2018)
+
+Operated 3-axis CNC machines for precision machining tasks.
+Gained hands-on experience in part fabrication and milling processes.
+Featured GitHub Projects
+1. PLC & SCADA Simulator
+🚀 Objective: Build a fully functional simulation environment for PLC and SCADA integration.
+🔧 Tools & Technologies: Siemens TIA Portal, AVEVA InTouch, C++
+📂 Project Repository
+
+2. Network Troubleshooting Toolkit
+🌐 Objective: Develop a toolkit for simulating network environments and troubleshooting issues.
+🔧 Tools & Technologies: Python, Wireshark API, Packet Tracer
+📂 Project Repository
+
+3. Smart Home Automation System
+🏡 Objective: Create a home automation system for controlling temperature, lighting, and security.
+🔧 Tools & Technologies: Arduino, JavaScript, PHP
+📂 Project Repository
+
+Education
+Bachelor of Computer Science (Software Engineering)
+Universiti Teknologi Malaysia (UTM) | 2022 – Present
+Diploma in Mechatronic Engineering Technologies
+Japan-Malaysia Technical Institute (JMTi) | 2015 – 2018
+Certifications & Skills Highlights
+Siemens TIA Portal Certified Programmer
+Recognized for Best SCADA Development (Macro-Integration Sdn Bhd)
+Proficient in developing user-friendly, data-driven solutions
+Get in Touch
+📍 Address: No 20, Jalan Seberang Temerloh 3, Taman Seberang Temerloh, 28000, Temerloh, Pahang
+📞 Phone: +60 16-9886234
+📧 Email: syafiqzafri9@gmail.com
+🔗 LinkedIn: linkedin.com/in/syafiq-zafri
