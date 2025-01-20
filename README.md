@@ -7,7 +7,7 @@ Automation Engineer
 I’m an automation engineer fueled by curiosity and a passion for innovation. As a computer science student, I thrive on exploring new technologies and pushing the boundaries of what’s possible.
 
 * 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [syafiqzafri9@gmail.com](mailto:syafiqzafri9@gmail.com/>
+* ✉️  You can contact me at [syafiqzafri9@gmail.com](mailto:syafiqzafri9@gmail.com)
 * 🌐  My Portfolio [SyafiqZafri.github.IO](https://syafiqzafri.github.io/)  
 
 * 🧠  I'm learning Computer oraganization and architecture
