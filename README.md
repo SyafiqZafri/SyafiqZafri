@@ -8,7 +8,7 @@ I’m an automation engineer fueled by curiosity and a passion for innovation. A
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [syafiqzafri9@gmail.com](mailto:syafiqzafri9@gmail.com)
-* 🌐  My Portfolio [SyafiqZafri.github.io](SyafiqZafri.github.io)
+* 🌐  My Portfolio [SyafiqZafri.github.io]("SyafiqZafri.github.io")
 * 🧠  I'm learning Computer oraganization and architecture
 * 🤝  I'm open to collaborating on Project
 
