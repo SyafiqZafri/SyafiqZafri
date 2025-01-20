@@ -34,14 +34,6 @@ I’m an automation engineer fueled by curiosity and a passion for innovation. A
 
 <a href="https://github.com/SyafiqZafri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyafiqZafri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-# **Muhammad Syafiq Bin Mohd Zafri**  
-**Automation Engineer | Software Engineering Student | PLC & SCADA Specialist**
-
-![GitHub Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Portfolio)  
-<sup>*Replace the banner with a custom design showcasing your expertise in automation and software engineering.*</sup>
-
----
-
 ## **Technical Expertise**  
 
 ### **Automation Technology**  
