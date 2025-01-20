@@ -42,13 +42,6 @@ I’m an automation engineer fueled by curiosity and a passion for innovation. A
 
 ---
 
-## **About Me**  
-Hi! I’m **Muhammad Syafiq**, a highly motivated **Automation Engineer** and **Software Engineering** student with over 4 years of hands-on experience in **PLC programming**, **SCADA development**, and **automation systems integration**. I thrive on innovation, solving complex challenges, and delivering efficient solutions.  
-
-I’m currently pursuing my **Bachelor's in Computer Science (Software Engineering)** at **UTM**, where I blend operational technology expertise with software engineering skills to bridge the gap between IT and OT.  
-
----
-
 ## **Technical Expertise**  
 
 ### **Automation Technology**  
